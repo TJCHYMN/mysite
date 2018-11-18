@@ -1,7 +1,7 @@
 # mysite
 
 ## 簡介
-此專案為練習Django之紀錄，並參考官網教學進行(https://docs.djangoproject.com/zh-hans/2.1/intro/tutorial01/)，目前進度到第4部分。
+此專案為練習Django之紀錄，並參考官網教學進行( https://docs.djangoproject.com/zh-hans/2.1/intro/tutorial01/ )，目前進度到第4部分。
 
 ## 環境需求
 * Python 3.*
